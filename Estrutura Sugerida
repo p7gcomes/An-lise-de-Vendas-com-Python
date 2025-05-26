@@ -1,0 +1,9 @@
+powerbi-python-vendas/
+├── data/
+│   └── vendas_raw.csv
+│   └── vendas_tratada.csv
+├── src/
+│   └── gerar_dados.py
+│   └── tratar_dados.py
+├── README.md
+├── requirements.txt
