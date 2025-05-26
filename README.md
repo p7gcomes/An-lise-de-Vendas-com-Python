@@ -18,3 +18,12 @@ Projeto simples que gera dados de vendas com Python, trata e transforma para vis
 - Faturamento mensal
 - Vendas por canal
 - Produto mais vendido
+
+✅ O que o código faz:
+Gera um conjunto de dados fictício de vendas
+
+Limpa e transforma os dados
+
+Exporta o resultado como CSV
+
+O CSV será carregado no Power BI para criar dashboards
